@@ -1,0 +1,177 @@
+[29-Jun-2023 11:37:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:10 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:11 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:13 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:14 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:16 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:43:56 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 13:27:56 UTC] PHP Warning:  Undefined variable $page in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 177
+[29-Jun-2023 13:27:59 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[29-Jun-2023 13:27:59 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[29-Jun-2023 13:41:06 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[29-Jun-2023 13:41:07 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[29-Jun-2023 13:41:29 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home2/aplhpzmy/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[29-Jun-2023 13:41:30 UTC] PHP Warning:  Undefined array key "type" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/inc/updates.php on line 329
+[29-Jun-2023 13:41:30 UTC] PHP Warning:  Undefined array key "type" in /home2/aplhpzmy/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-waf/src/class-waf-initializer.php on line 134
+[29-Jun-2023 13:41:30 UTC] PHP Warning:  Undefined array key "type" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Plugin.php on line 112
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:41:32 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:54:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:47 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 13:56:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 14:00:48 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[29-Jun-2023 18:52:24 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:06:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:10:03 UTC] PHP Warning:  Undefined variable $page in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 177
+[19-Jul-2023 18:11:39 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[19-Jul-2023 18:11:39 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:17:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:28:05 UTC] PHP Warning:  Undefined variable $page in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 177
+[19-Jul-2023 18:28:27 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[19-Jul-2023 18:28:27 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:29:06 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 18:53:00 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:14 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:14 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:14 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:14 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:15 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:01:15 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 19:06:19 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:20:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:34:54 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:02 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:41:39 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:58:35 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[19-Jul-2023 20:59:36 UTC] PHP Warning:  Undefined variable $page in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 177
+[19-Jul-2023 21:01:21 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[19-Jul-2023 21:01:22 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[19-Jul-2023 21:03:23 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home2/aplhpzmy/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[19-Jul-2023 21:03:24 UTC] PHP Warning:  Undefined array key "type" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/inc/updates.php on line 329
+[19-Jul-2023 21:03:24 UTC] PHP Warning:  Undefined array key "type" in /home2/aplhpzmy/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-waf/src/class-waf-initializer.php on line 134
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[20-Jul-2023 08:37:30 UTC] PHP Warning:  Array to string conversion in /home2/aplhpzmy/public_html/wp-includes/formatting.php on line 1098
+[22-Jul-2023 19:18:29 UTC] PHP Warning:  Undefined array key "plugin" in /home2/aplhpzmy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/autoupdate.php on line 116
+[22-Jul-2023 19:18:29 UTC] PHP Warning:  Undefined array key "plugin" in /home2/aplhpzmy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/autoupdate.php on line 116
+[22-Jul-2023 19:18:29 UTC] PHP Warning:  Undefined array key "plugin" in /home2/aplhpzmy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/autoupdate.php on line 116
+[25-Jul-2023 21:34:23 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:35:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[26-Jul-2023 17:45:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jul-2023 16:41:55 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:41:55 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:41:55 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:41:55 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:42:18 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:42:18 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:42:18 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:42:18 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:03 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:03 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:03 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:03 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:30 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:30 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:30 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:47:30 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:48:01 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:48:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:48:01 UTC] PHP Warning:  Undefined variable $options in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:48:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home2/aplhpzmy/public_html/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[29-Jul-2023 16:49:01 UTC] PHP Warning:  Undefined array key "block_id" in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/blocks-config/google-map/class-uagb-google-map.php on line 149
+[29-Jul-2023 16:49:38 UTC] PHP Warning:  Undefined array key "block_id" in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/blocks-config/google-map/class-uagb-google-map.php on line 149
+[01-Oct-2023 15:51:52 UTC] PHP Warning:  file_get_contents(https://smallgirlbigbackpack.com/wp-content/uploads/2023/08/bestbeachespool-e1694359118311.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/aplhpzmy/public_html/wp-includes/class-wp-image-editor-imagick.php on line 156
+[01-Oct-2023 15:52:11 UTC] PHP Warning:  file_get_contents(https://smallgirlbigbackpack.com/wp-content/uploads/2023/08/bestbeachespool-e1694359118311.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/aplhpzmy/public_html/wp-includes/class-wp-image-editor-imagick.php on line 156
+[01-Oct-2023 15:52:11 UTC] PHP Warning:  file_get_contents(https://smallgirlbigbackpack.com/wp-content/uploads/2023/08/bestbeachespool-e1694359118311.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/aplhpzmy/public_html/wp-includes/class-wp-image-editor-imagick.php on line 156
+[01-Oct-2023 15:52:24 UTC] PHP Warning:  file_get_contents(https://smallgirlbigbackpack.com/wp-content/uploads/2023/08/bestbeachespool-e1694359118311.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/aplhpzmy/public_html/wp-includes/class-wp-image-editor-imagick.php on line 156
+[03-Oct-2023 12:54:14 UTC] PHP Warning:  file_get_contents(https://smallgirlbigbackpack.com/wp-content/uploads/2023/07/bestbeachescloud9-2-e1694359268507.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/aplhpzmy/public_html/wp-includes/class-wp-image-editor-imagick.php on line 156
+[18-Nov-2023 14:22:15 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/aplhpzmy/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', 'nihj')
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/aplhpzmy/public_html/wp-content/plugins/wp-asset-clean-up/classes/AjaxSearchAutocomplete.php(189): WP_Query->__construct(Array)
+#4 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(324): WpAssetCleanUp\AjaxSearchAutocomplete->wpAjaxSearch('')
+#5 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/aplhpzmy/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wpasset...')
+#8 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-includes/class-wp-query.php on line 2201
+[20-Nov-2023 19:16:11 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}

@@ -1,0 +1,273 @@
+# <!=Copyright (C) 2023 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Trail 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/travel-trail\n"
+"POT-Creation-Date: 2023-07-04 04:08:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:57
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:70
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:72
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:97
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:98
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:119
+msgid "Font Color"
+msgstr ""
+
+#: functions.php:120
+msgid "Body font color of the theme."
+msgstr ""
+
+#: functions.php:133
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:134
+msgid "Customize Typography & Background Image"
+msgstr ""
+
+#: functions.php:142
+msgid "Typography"
+msgstr ""
+
+#: functions.php:162
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:163
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:184
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:185
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:207
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:208
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:232
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: functions.php:233
+msgid ""
+"Enable to load google fonts from your own server instead from google's CDN. "
+"This solves privacy concerns with Google's CDN and their sometimes "
+"less-than-transparent policies."
+msgstr ""
+
+#: functions.php:252
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: functions.php:253
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: functions.php:261
+msgid "Click the button to reset the local fonts cache"
+msgstr ""
+
+#: functions.php:263
+msgid "Flush Local Font Files"
+msgstr ""
+
+#: functions.php:277
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: functions.php:289
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:299 functions.php:320
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:321
+msgid "it is the layout for header."
+msgstr ""
+
+#: functions.php:334 functions.php:354
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:355
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:378
+msgid "%1$sClick here%2$s to select the layout of slider banner."
+msgstr ""
+
+#: functions.php:397
+msgid "%1$sClick here%2$s to configure slider settings."
+msgstr ""
+
+#: functions.php:406 functions.php:427
+msgid "Home Page Layout"
+msgstr ""
+
+#: functions.php:428
+msgid "Choose the home page layout for your site."
+msgstr ""
+
+#: functions.php:448
+msgid "General Sidebar layout"
+msgstr ""
+
+#: functions.php:450
+msgid "Change different page layout from here."
+msgstr ""
+
+#: functions.php:469
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: functions.php:470
+msgid ""
+"This is the general sidebar layout for pages. You can override the sidebar "
+"layout for individual page in respective page."
+msgstr ""
+
+#: functions.php:496
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: functions.php:497
+msgid ""
+"This is the general sidebar layout for posts & custom post. You can "
+"override the sidebar layout for individual post in respective post."
+msgstr ""
+
+#: functions.php:523
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: functions.php:524
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#: functions.php:639
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:772
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1070
+msgid " Travel Trail | Developed By "
+msgstr ""
+
+#: functions.php:1071
+msgid "Rara Themes"
+msgstr ""
+
+#: functions.php:1072
+msgid "%1$s Powered by %2$s%3$s."
+msgstr ""
+
+#: functions.php:1072
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Travel Trail"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/travel-trail/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Travel Trail is a feature-rich and easy-to-use WordPress travel blog theme "
+"for professional bloggers. You can easily create a visually appealing and "
+"eye-catching site to share your travel expertise, launch your fashion or "
+"lifestyle blog, share food recipes, create beauty and makeup sites, or any "
+"other niche blog. The theme is mobile-friendly, SEO optimized, Schema "
+"friendly, and loads faster to help you rank your website higher on search "
+"engines. You can easily choose from unlimited colors and 1000+ Google fonts "
+"to change your website look and feel with a single click. This theme comes "
+"with a gorgeous newsletter section that can help you generate more leads "
+"and an Instagram section to flaunt your Instagram posts. Travel Trail is "
+"translation-ready, WooCommerce and RTL compatible. Check demo at "
+"https://rarathemes.com/previews/?theme=travel-trail, read the documentation "
+"at https://docs.rarathemes.com/docs/travel-trail/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:925
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:926
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:927
+msgctxt "Signature Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:928
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""

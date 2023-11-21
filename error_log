@@ -1,0 +1,653 @@
+[29-Jun-2023 11:14:04 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:28:32 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:33:24 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:33:24 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:33:24 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:33:24 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:36:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:37:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:38:38 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:38:39 UTC] Cron reschedule event error for hook: nfd_module_installer_theme_install_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"ten_seconds","args":[],"interval":10}
+[29-Jun-2023 11:38:39 UTC] Cron reschedule event error for hook: nfd_module_installer_plugin_install_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"thirty_seconds","args":[],"interval":30}
+[29-Jun-2023 11:40:53 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:45:08 UTC] PHP Warning:  Undefined variable $block_patterns in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 320
+[29-Jun-2023 11:45:08 UTC] PHP Warning:  Undefined array key "theme-styles" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 323
+[29-Jun-2023 11:46:26 UTC] PHP Warning:  Undefined variable $block_patterns in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 320
+[29-Jun-2023 11:46:26 UTC] PHP Warning:  Undefined array key "theme-styles" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 323
+[29-Jun-2023 11:46:26 UTC] PHP Warning:  Undefined variable $block_patterns in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 320
+[29-Jun-2023 11:46:26 UTC] PHP Warning:  Undefined array key "theme-styles" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 323
+[29-Jun-2023 11:46:49 UTC] PHP Warning:  Undefined variable $block_patterns in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 320
+[29-Jun-2023 11:46:49 UTC] PHP Warning:  Undefined array key "theme-styles" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 323
+[29-Jun-2023 11:48:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:49:43 UTC] PHP Warning:  Undefined variable $block_patterns in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 320
+[29-Jun-2023 11:49:43 UTC] PHP Warning:  Undefined array key "theme-styles" in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/Data/Patterns.php on line 323
+[29-Jun-2023 11:51:27 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[29-Jun-2023 11:51:33 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[30-Jun-2023 00:15:29 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[30-Jun-2023 02:58:49 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[30-Jun-2023 11:09:43 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[30-Jun-2023 11:26:11 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 31
+[30-Jun-2023 11:26:11 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 47
+[30-Jun-2023 20:55:25 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[30-Jun-2023 23:35:55 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[02-Jul-2023 01:20:19 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[03-Jul-2023 00:56:41 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[05-Jul-2023 00:50:56 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[07-Jul-2023 08:46:35 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[07-Jul-2023 22:57:45 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[07-Jul-2023 23:56:41 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[07-Jul-2023 23:56:42 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 00:47:23 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 00:53:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 02:14:34 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 02:14:34 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 04:41:56 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 11:25:54 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 11:25:54 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 19:02:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[08-Jul-2023 19:02:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[09-Jul-2023 10:53:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[09-Jul-2023 10:53:30 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[09-Jul-2023 20:32:22 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[09-Jul-2023 20:32:22 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Jul-2023 22:40:46 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[16-Jul-2023 21:59:31 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 22:15:14 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 22:15:15 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 22:15:16 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 22:18:12 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 22:22:14 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[16-Jul-2023 23:44:54 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 07:04:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 07:04:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 07:04:38 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 13:04:40 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 21:19:21 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 21:19:21 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[17-Jul-2023 21:19:23 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 05:49:07 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 05:49:07 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 05:49:09 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 17:54:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 17:54:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Jul-2023 17:54:21 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[19-Jul-2023 01:35:31 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[20-Jul-2023 17:21:27 UTC] PHP Warning:  Undefined array key "styles_default" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 112
+[20-Jul-2023 17:21:27 UTC] PHP Warning:  Undefined array key "styles_default" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 122
+[20-Jul-2023 17:21:28 UTC] PHP Warning:  Undefined array key "cat" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 176
+[20-Jul-2023 17:21:28 UTC] PHP Warning:  Undefined array key "tag" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 177
+[20-Jul-2023 17:21:28 UTC] PHP Warning:  Undefined array key "styles_default" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 112
+[20-Jul-2023 17:21:28 UTC] PHP Warning:  Undefined array key "styles_default" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 122
+[20-Jul-2023 17:22:33 UTC] PHP Warning:  Undefined array key "cat" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 176
+[20-Jul-2023 17:22:33 UTC] PHP Warning:  Undefined array key "tag" in /home2/aplhpzmy/public_html/wp-content/plugins/recent-posts-widget-extended/classes/class-rpwe-widget.php on line 177
+[25-Jul-2023 18:42:53 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 18:42:53 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 18:42:54 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 20:22:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 20:22:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 20:22:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:20:01 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:25:04 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:25:04 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:25:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:29:09 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:29:09 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[25-Jul-2023 21:29:10 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[26-Jul-2023 09:33:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[26-Jul-2023 09:33:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[26-Jul-2023 09:33:21 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[26-Jul-2023 17:32:56 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"minutely","args":[],"interval":60}
+[26-Jul-2023 21:42:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[26-Jul-2023 21:42:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('searchanalytics', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[26-Jul-2023 21:42:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[26-Jul-2023 21:42:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[26-Jul-2023 23:57:28 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[27-Jul-2023 06:31:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[27-Jul-2023 06:31:20 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[27-Jul-2023 06:31:22 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[28-Jul-2023 11:16:42 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"minutely","args":[],"interval":60}
+[28-Jul-2023 11:44:36 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 31
+[28-Jul-2023 11:44:36 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 47
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:55:35 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 16:58:14 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:06:50 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:08 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:15 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:07:48 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:08:43 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:19 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:20 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:34 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:54 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:09:55 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 863
+[29-Jul-2023 17:10:04 UTC] PHP Warning:  Undefined variable $blockattr in /home2/aplhpzmy/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/classes/class-uagb-post-assets.php on line 864
+[31-Jul-2023 21:14:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('searchanalytics', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('searchanalytics', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[31-Jul-2023 21:14:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request as array in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php:535
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php(423): Google\Site_Kit\Core\Authentication\Clients\OAuth_Client->refresh_profile_data(1800)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Authentication\{closure}(Array)
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(202): do_action('googlesitekit_r...', Array)
+#5 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(109): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->fetchAccessTokenWithRefreshToken('s0+sjXOIZGQbYv5...')
+#6 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/third-party/google/apiclient/src/Client.php(732): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->authorize()
+#7 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/Google_Site_Kit_Client.php(220): Google\Site_Kit_Dependencies\Google\Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request), NULL)
+#8 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(370): Google\Site_Kit\Core\Authentication\Clients\Google_Site_Kit_Client->execute(Object(Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\Request))
+#9 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/Module.php(213): Google\Site_Kit\Core\Modules\Module->execute_data_request(Object(Google\Site_Kit\Core\REST_API\Data_Request))
+#10 /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Modules/REST_Modules_Controller.php(538): Google\Site_Kit\Core\Modules\Module->get_data('report', Array)
+#11 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1181): Google\Site_Kit\Core\Modules\REST_Modules_Controller->Google\Site_Kit\Core\Modules\{closure}(Object(WP_REST_Request))
+#12 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/google-site-ki...', Array, NULL)
+#13 /home2/aplhpzmy/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 /home2/aplhpzmy/public_html/wp-includes/rest-api.php(410): WP_REST_Server->serve_request('/google-site-ki...')
+#15 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 /home2/aplhpzmy/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#18 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 /home2/aplhpzmy/public_html/wp-includes/class-wp.php(780): WP->parse_request('')
+#20 /home2/aplhpzmy/public_html/wp-includes/functions.php(1334): WP->main('')
+#21 /home2/aplhpzmy/public_html/wp-blog-header.php(16): wp()
+#22 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#23 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-content/plugins/google-site-kit/includes/Core/Authentication/Clients/OAuth_Client.php on line 535
+[02-Aug-2023 00:14:01 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[03-Aug-2023 08:45:32 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 08:46:34 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 08:49:34 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 08:52:35 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 08:56:36 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 09:02:39 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 16:38:10 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 23:51:32 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[03-Aug-2023 23:51:33 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[04-Aug-2023 08:14:30 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[04-Aug-2023 17:18:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[04-Aug-2023 17:18:37 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[04-Aug-2023 17:18:38 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 11:21:51 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 53
+[11-Aug-2023 11:21:51 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 69
+[11-Aug-2023 17:18:40 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 17:34:55 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 17:34:55 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 17:34:55 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 18:08:27 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 18:35:49 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 18:35:49 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 18:35:50 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 18:46:46 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 20:07:41 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 20:07:41 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[11-Aug-2023 20:07:41 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 08:50:38 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 08:50:38 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 08:50:39 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 16:53:19 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 16:53:19 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[12-Aug-2023 16:53:19 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[13-Aug-2023 02:50:54 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[18-Aug-2023 11:27:49 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 53
+[18-Aug-2023 11:27:49 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-data/src/Listeners/Commerce.php on line 69
+[20-Aug-2023 03:32:16 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 03:35:07 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 07:35:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 07:35:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 07:35:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 09:11:26 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 09:11:26 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 09:11:27 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 09:43:14 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 09:58:59 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 16:05:12 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Aug-2023 23:11:27 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 07:19:52 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 07:19:52 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 07:19:53 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 17:08:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 17:08:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Aug-2023 17:08:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[22-Aug-2023 11:30:20 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"minutely","args":[],"interval":60}
+[23-Aug-2023 10:58:41 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[24-Aug-2023 16:35:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(310): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#5 /home2/aplhpzmy/public_html/wp-blog-header.php(19): require_once('/home2/aplhpzmy...')
+#6 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#7 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-partial.php on line 222
+[24-Aug-2023 16:35:40 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(310): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 /home2/aplhpzmy/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 /home2/aplhpzmy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home2/aplhpzmy/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#5 /home2/aplhpzmy/public_html/wp-blog-header.php(19): require_once('/home2/aplhpzmy...')
+#6 /home2/aplhpzmy/public_html/index.php(17): require('/home2/aplhpzmy...')
+#7 {main}
+  thrown in /home2/aplhpzmy/public_html/wp-includes/customize/class-wp-customize-partial.php on line 222
+[01-Sep-2023 10:10:10 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Sep-2023 14:26:00 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[06-Sep-2023 23:14:58 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[06-Sep-2023 23:14:58 UTC] Cron unschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[06-Sep-2023 23:14:58 UTC] Cron reschedule event error for hook: rsssl_every_three_hours_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_every_three_hours","args":[],"interval":10800}
+[06-Sep-2023 23:14:58 UTC] Cron unschedule event error for hook: wp_https_detection, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[10-Sep-2023 10:55:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[10-Sep-2023 11:10:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Sep-2023 02:48:10 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[21-Sep-2023 01:28:34 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[28-Sep-2023 13:36:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/aplhpzmy/public_html/wp-content/themes/astra/index.php on line 15
+[28-Sep-2023 13:37:03 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/aplhpzmy/public_html/wp-content/themes/astra/index.php on line 15
+[28-Sep-2023 13:37:13 UTC] PHP Parse error:  syntax error, unexpected identifier "name" in /home2/aplhpzmy/public_html/wp-content/themes/astra/index.php on line 15
+[28-Sep-2023 21:56:50 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 15:47:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 17:09:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Oct-2023 23:42:48 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[02-Oct-2023 14:00:44 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
+[03-Oct-2023 14:01:34 UTC] PHP Warning:  chmod(): No such file or directory in /home2/aplhpzmy/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[05-Oct-2023 13:33:29 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[08-Oct-2023 23:18:53 UTC] Cron reschedule event error for hook: rsssl_every_three_hours_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_every_three_hours","args":[],"interval":10800}
+[15-Oct-2023 10:12:23 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[16-Oct-2023 10:08:51 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[22-Oct-2023 12:07:59 UTC] Cron reschedule event error for hook: wp_scheduled_auto_draft_delete, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[25-Oct-2023 15:50:58 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[29-Oct-2023 09:42:56 UTC] Cron reschedule event error for hook: wpo_smush_clear_backup_images, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[31-Oct-2023 09:20:35 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[09-Nov-2023 15:05:58 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[20-Nov-2023 19:17:19 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:19:33 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:26:05 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:30:14 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:36:01 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 23:20:59 UTC] PHP Warning:  file_get_contents(/home2/aplhpzmy/public_html/wp-content/plugins/bluehost-wordpress-plugin124/bluehost-wordpress-plugin.php): Failed to open stream: No such file or directory in /home2/aplhpzmy/public_html/wp-includes/functions.php on line 6805
+[20-Nov-2023 23:33:07 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}

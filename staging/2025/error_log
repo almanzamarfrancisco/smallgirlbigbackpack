@@ -1,0 +1,16 @@
+[20-Nov-2023 19:21:10 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:21:10 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[20-Nov-2023 19:24:02 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:27 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:28 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:29 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:27:30 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[20-Nov-2023 19:44:08 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
+[21-Nov-2023 04:31:44 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
